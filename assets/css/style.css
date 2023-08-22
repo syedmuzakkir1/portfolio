@@ -1,0 +1,16 @@
+html{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.myImg{
+
+    width: 300px;
+    border-radius: 50%;
+}
+body{
+
+    margin: 0 auto; 
+    align-items: center;
+    text-align: center;
+}
