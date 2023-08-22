@@ -6,11 +6,11 @@ html{
 .myImg{
 
     width: 300px;
-    border-radius: 50%;
+    border-radius: 44%;
 }
 body{
 
     margin: 0 auto; 
-    align-items: center;
+    /* align-items: center; */
     text-align: center;
 }
